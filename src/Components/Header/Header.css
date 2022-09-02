@@ -1,0 +1,32 @@
+.header {
+    /* background-color: #F0F5FF; */
+    position: absolute;
+    width: 100%;
+    z-index: 1000
+        /* height: 50vh; */
+}
+
+.subtitle {
+    font-size: small;
+    display: inline-block;
+    padding: 5%;
+    margin-right: 20%;
+}
+
+@media (max-width: 650px) {
+    .subtitle {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    /* .toggleButton {
+        background-color: white;
+        border-radius: 15px 15px;
+        height: 34vh;
+
+    } */
+    /* .toggleNav{
+        align-items: center;
+    } */
+}

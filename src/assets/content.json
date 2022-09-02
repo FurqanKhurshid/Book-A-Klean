@@ -1,0 +1,86 @@
+{
+    "Home":{
+        "Header":"Why Choose K-Clean?",
+        "content":"We've built our reputation on making it easy for you to keep your home and office safe and clean. Our cleaners use EPA-registered cleaning products and follow CDC guidelines, not only cleaning and straightening up your space, but also disinfecting all high-touch surfaces and areas.",
+        "content2":"Basic UV disinfection treatments are included as part of our core services. This powerful non-toxic technology eliminates pathogens, such as viruses and bacteria, without using harmful chemicals or leaving behind residue.",
+        "content3":"In the rare event you're not satisfied with the quality of the service, we will make it right with our Great Clean Guarantee.",
+        "content4":"Lastly, MyClean cares about our employees' health and wellbeing. Our cleaners are employees, not gig economy workers. And we provide them with personal protective equipment (PPE) such as gloves, masks, UV safety glasses, and personal thermometers. Our protocols require cleaners to take their temperature daily and to request time off immediately if they are feeling unwell.Our Safety Protocols.",
+
+        "feedback1":"Our cleaner was amazing!The most beautiful our apt has ever looked.",
+        "feedback1Name":"Mary A,Brooklyn",
+        "feedback2":"The service was efficient and convenient...Only once,when I had an issue,it was solved to satisfaction.That earned my respect",
+        "feedback2Name":"Andrew S,New York City",
+        "feedback3":"Easy and my mother was happy",
+        "feedback3Name":"John M,New York City"
+    },
+
+    "CleanType":{
+        "ResidentialHeader":"Standard Clean",
+        "ResidentialContent1":"40pt checklist",
+        "ResidentialContent2":"Basic UV Treatment — emphasis on disinfecting air and high touch surfaces",
+        "ResidentialContent3":"Recurring options available – weekly, every 2 weeks, every 4 weeks",
+
+        "ResidentialHeader2":"Standard Plus Clean",
+        "ResidentialContent21":"50pt checklist",
+        "ResidentialContent22":"Basic UV Treatment",
+        "ResidentialContent23":"50% more time for areas of focus",
+        "ResidentialContent24":"Recurring options available – weekly, every 2 weeks, every 4 weeks",
+
+        "ResidentialHeader3":"Deep Clean",
+        "ResidentialContent31":"50pt checklist with add-ons: inside fridge, oven, and cabinets",
+        "ResidentialContent32":"Basic UV Treatment",
+        "ResidentialContent33":"150% more time for areas of focus",
+        "ResidentialContent34":"Recurring option available – every 4 weeks (Must request)",
+
+        "ResidentialHeader4":"Moving Clean",
+        "ResidentialContent41":"50pt checklist with add-ons: inside fridge, oven, and cabinets",
+        "ResidentialContent42":"Basic UV Treatment",
+        "ResidentialContent43":"150% more time for areas of focus",
+
+        "ResidentialHeader5":"Post-Construction Clean",
+        "ResidentialContent51":"Must initially call/text/email/submit online form for quote (pricing is by man hours)",
+        "ResidentialContent52":"HEPA cleaning equipment",
+
+
+        "CommercialHeader":"Commercial Clean",
+        "CommercialContent1":"Must initially call/text/email/submit online form for quote",
+        "CommercialContent2":"Customized commercial Scope of Work (SoW)",
+        "CommercialContent3":"Recurring options available: Daily, 5x weekly, 3x weekly, weekly, every 2 weeks, every 4 weeks",
+
+        "CommercialHeader2":"Post-Construction Clean",
+        "CommercialContent21":"Must initially call/text/email/submit online form for quote (pricing is by man hours)",
+        "CommercialConten22":"HEPA cleaning equipment",
+
+        "CommercialHeader3":"Electrostatic Disinfection Treatment",
+        "CommercialContent31":"Must initially call/text/email/submit online form for quote",
+        "CommercialContent32":"Customized commercial Scope of Work (SoW)",
+        "CommercialContent33":"Disinfects ALL surfaces, including hard to reach non-visible areas"
+
+
+
+    },
+    "Services":{
+        "HomeCleaningpara1":"We understand your home is important to you. That’s why we focus on the quality of the clean.Our cleaners aren’t contract workers - they are full-time employees. They care as much as we do.",
+        "HomeCleaningpara2":"On top of that, we know every home is different, so we allow you to give us special requests for those hard to reach places.",
+        "movingpara":"We cover that, too. We’re happy to answer any questions you have to make it the easiest move of your life.",
+
+        "OfficeCleaningOffer":"Insured and bonded",
+        "OfficeCleaningOffer1":"No annual contract",
+        "OfficeCleaningOffer2":" Transparent pricing",
+        "OfficeCleaningOffer3":"Easy, convenient payment methods (credit/debit or invoicing)",
+        "OfficeCleaningOffer4":"Consistent, high quality service (employees, no contractors) ",
+        "OfficeCleaningOffer5":"Cleaning supplies and equipment provided",
+        "OfficeCleaningOffer6":"Flexible scheduling (business hours or after hours) ",
+        "OfficeCleaningOffer7":"Secure key drop-off available",
+        "OfficeCleaningOffer8":"Custom walk-throughs",
+        "OfficeCleaningOffer9":"Special attention to client-facing areas (lobby, glass doors, etc.)",
+        "OfficeCleaningOffer10":"Special attention to VIP offices",
+        "OfficeCleaningOffer11":"Responsive and prompt customer service",
+        "OfficeCleaningOffer12":"Timely and professional issue resolution",
+        "OfficeCleaningOffer13":"Executive access (no middle manager)"
+
+
+    }
+
+   
+}

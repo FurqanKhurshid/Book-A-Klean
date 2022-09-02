@@ -1,0 +1,71 @@
+.cleanType {
+    background-color: #F9FCF5;
+     /* height: 135vh;  */
+     /* margin-bottom: 5%; */
+}
+.headingDiv{
+    display: flex;
+    justify-content: center;
+    /* margin-left: 5%; */
+}
+.heading{
+    margin-top: 12%;
+    font-size: 55px;
+    text-align: center;
+    font-family: inherit;
+    color: #4535DA;
+}
+.NavTab{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    /* margin-bottom: 5%; */
+}
+.ResedentialHeading{
+    
+    text-align: center;
+}
+.ResedentialButton{
+    display:flex;
+    justify-content:center;
+}
+.ResedentialDiv{
+    background-color: #0AA7E1;
+    height: 30vh;
+    border-radius: 15px 15px 15px 15px;
+}
+.ResedentialDiv2{
+    background-color: #F9FCF5;
+    margin-top: 5%;
+    height: 30vh;
+    margin-bottom: 5%;
+    border-radius: 15px 15px 15px 15px;
+}
+.ResedentialDiv3{
+    background-color: #F9FCF5;
+    margin-top: 5%;
+    height: 30vh;
+    border-radius: 15px 15px 15px 15px;
+}
+.ResedentialDiv4{
+    background-color: #F9FCF5;
+    margin-top: 5%;
+    height: 25vh;
+    border-radius: 15px 15px 15px 15px;
+}
+.ResedentialDiv5{
+    background-color: #F9FCF5;
+    margin-top: 5%;
+    height: 25vh;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.ResedentialList{
+    display: flex;
+    justify-content: center;
+}
+.TabsStyle{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}

@@ -1,0 +1,116 @@
+.cleaninghero-office {
+    background-image: url('../../../../../public/clean-office-1.png');
+    height: 100vh;
+    /* width: 100vw; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* opacity: .5; */
+    width: 100%;
+    /* height: 650px; */
+    position: relative;
+    opacity: .35;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+.text-office {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    width: 80%;
+    font-family: 'Oswald';
+    position: absolute;
+    top: 327.5px;
+    left: 50%;
+    transform: translate(-50%, -64px);
+}
+
+.offer {
+    background-color: #1482FC;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+.tickButton {
+    color: black
+}
+
+.workIndustry {
+    /* display: flex;
+    justify-content: center; */
+    /* margin-top: 5%; */
+    /* width: 0%; */
+    padding: 60px 0;
+    border-top: 1px solid #f6f7f9;
+}
+
+.industryimage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.industries {
+    width: 71.5%;
+    float: none !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-top: 60px;
+}
+.industries>ul>li>img{
+    max-height: 80px;
+    margin-bottom: 15px;
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    display: block;
+}
+.industries>ul>li{
+    width: 25%;
+    text-align: center;
+    margin-bottom: 60px;
+    list-style: none;
+    padding: 0;
+    margin: 0 0 8px 0;
+}
+.imageList{
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    /* -ms-flex-direction: row; */
+    flex-direction: row;
+    -webkit-box-align: start;
+    /* -ms-flex-align: start; */
+    align-items: flex-start;
+    -webkit-box-pack: start;
+    /* -ms-flex-pack: start; */
+    justify-content: flex-start;
+    /* -ms-flex-wrap: wrap; */
+    flex-wrap: wrap;
+}
+.business{
+    background-color: #112149;
+}
+
+
+@media screen and (max-width: 645px) {
+    .industries {
+        padding-top: 20px;
+        width: 83.66666667%;
+    }
+    .industries>ul>li{
+        width: 50%;
+    }
+    .workIndustry>h3{
+        font-size: 18px;
+    }
+}
